@@ -35,8 +35,11 @@ NODE | TypeScript | TypeORM | PostgreSQL | Docker |
 
 React | TypeScript | Axios | ContextAPI
 
+:computer: <a href="https://swap-gobarber.vercel.app/">swap-gobarber</a>
+
 <p align="center">
   <img alt="Languagues" src="https://img.shields.io/github/languages/count/luisroxis/GobarberWeb?style=for-the-badge">
+ <img alt="Deploy Vercel" src="https://vercelbadge.vercel.app/api/luisroxis/gobarber-web?style=for-the-badge" /> 
   <img alt="Top Languague" src="https://img.shields.io/github/languages/top/luisroxis/GobarberWeb?style=for-the-badge">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/luisroxis/GobarberWeb?style=for-the-badge">
   <a href="https://github.com/luisroxis/GobarberWeb/commits/master?style=for-the-badge">
